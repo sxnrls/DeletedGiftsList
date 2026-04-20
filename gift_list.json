@@ -1,0 +1,53 @@
+{
+  "stickerpack": "DeletedGiftsStickers",
+  "gifts": [
+    {
+      "id": 5956217000635139069,
+      "price": 50,
+      "sticker_number": 1,
+      "debug_name": "Новогодний мишка"
+    },
+    {
+      "id": 5922558454332916696,
+      "price": 50,
+      "sticker_number": 2,
+      "debug_name": "Елочка"
+    },
+    {
+      "id": 5800655655995968830,
+      "price": 50,
+      "sticker_number": 3,
+      "debug_name": "Мишка на 14 февраля"
+    },
+    {
+      "id": 5866352046986232958,
+      "price": 50,
+      "sticker_number": 4,
+      "debug_name": "Мишка на 8 марта"
+    },
+    {
+      "id": 5801108895304779062,
+      "price": 50,
+      "sticker_number": 5,
+      "debug_name": "Валентинка на 14 февраля"
+    },
+    {
+      "id": 5893356958802511476,
+      "price": 50,
+      "sticker_number": 6,
+      "debug_name": "Мишка лепрекон"
+    },
+    {
+      "id": 5935895822435615975,
+      "price": 50,
+      "sticker_number": 7,
+      "debug_name": "Мишка на 1 апреля"
+    },
+    {
+      "id": 5969796561943660080,
+      "price": 50,
+      "sticker_number": 8,
+      "debug_name": "Мишка на пасху"
+    }
+  ]
+}
